@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Toto",
+      "last_name": "Totito",
+      "email": "toto@email.com",
+      "password": "toto123"
+    },
+    {
+      "id": 2,
+      "first_name": "Moyo",
+      "last_name": "Moyito",
+      "email": "moyo@email.com",
+      "password": "moyo123"
+    },
+    {
+      "id": 3,
+      "first_name": "Lalo",
+      "last_name": "Lalito",
+      "email": "lalo@email.com",
+      "password": "lalo123"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Bread - Kimel Stick Poly",
+      "price": 100,
+      "category": "Games"
+    },
+    {
+      "id": 2,
+      "name": "Shrimp - 150 - 250",
+      "price": 200,
+      "category": "Industrial"
+    },
+    {
+      "id": 3,
+      "name": "Chiken Thigh - Bone Out",
+      "price": 300,
+      "category": "Games"
+    },
+    {
+      "id": 4,
+      "name": "Chiken Aaa - Bone Aaa",
+      "price": 300,
+      "category": "Games"
+    },
+    {
+      "id": 5,
+      "name": "Chiken Bbb - Bone Bbb",
+      "price": 300,
+      "category": "Games"
+    },
+    {
+      "id": 6,
+      "name": "Chiken Ccc - Bone Ccc",
+      "price": 300,
+      "category": "Industrial"
+    },
+    {
+      "id": 7,
+      "name": "Chiken Ddd - Ddd",
+      "price": 300,
+      "category": "Verdolaga"
+    },
+    {
+      "id": 8,
+      "name": "Chiken Eee - Bone Eee",
+      "price": 300,
+      "category": "Lluvioso"
+    },
+    {
+      "id": 9,
+      "name": "Chiken Fff - Bone Fff",
+      "price": 300,
+      "category": "Industrial"
+    }
+  ]
+}
